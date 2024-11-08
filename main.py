@@ -14,7 +14,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from webdriver_manager.firefox import GeckoDriverManager
 
 # Set the Firefox profile path
-firefox_profile_path = "C:\\Users\\dooli\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\8r1v7kxn.python"
+firefox_profile_path = "Your/Firefox/Profile"
 
 # Configure Firefox options
 firefox_options = Options()
